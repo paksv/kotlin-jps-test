@@ -1,5 +1,5 @@
 package com
 
-internal object SomeObject{
+object SomeObject{
     var someVar: String? = null
 }
