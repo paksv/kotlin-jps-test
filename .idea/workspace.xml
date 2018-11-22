@@ -40,11 +40,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6ba30c8-7bca-4efa-a6ae-3e19eaee71b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/SomeFile.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin/test-linux.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt" afterDir="false" />
     </list>
+    <list id="7bc1af5e-de73-4a55-bb62-2c973bede860" name="don't commit" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,43 +55,89 @@
     <session id="-259100851">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="1" />
           <entry key="kt" value="1" />
+          <entry key="sh" value="4" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Bash" value="3" />
           <entry key="JAVA" value="1" />
           <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="30" />
-          <entry key="kt" value="58" />
+          <entry key="java" value="31" />
+          <entry key="kt" value="281" />
+          <entry key="sh" value="77" />
+          <entry key="txt" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="30" />
-          <entry key="Kotlin" value="58" />
+          <entry key="Bash" value="77" />
+          <entry key="JAVA" value="31" />
+          <entry key="Kotlin" value="281" />
+          <entry key="PLAIN_TEXT" value="85" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.new.class" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="120">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="138" column="57" lean-forward="true" selection-end-line="179" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Kotlin/test-linux.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -99,10 +145,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/src/com/SomeFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#81#82#0" expanded="true" />
                 <element signature="e#144#145#0" expanded="true" />
               </folding>
             </state>
@@ -119,6 +164,38 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+      <find>:</find>
+      <find>jar:</find>
+      <find>kotlin</find>
+      <find>idea</find>
+      <find>kotlin-st</find>
+      <find>/lib/kotlin-stdlib.jar</find>
+      <find>class</find>
+      <find>\\\n</find>
+      <find>jps-bui</find>
+      <find>kotlin-jp</find>
+      <find>jps\lib\</find>
+      <find>kotlin_plu</find>
+      <find>kotli</find>
+      <find>kotlin-</find>
+      <find />
+      <find>kotlin_</find>
+      <find>C:\BuildAgent\tools</find>
+      <find>C:\BuildAgent\tools\jps</find>
+      <find>;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\\\n</replace>
+      <replace>^\n</replace>
+      <replace>\n</replace>
+      <replace>^\n</replace>
+      <replace>tools\jps</replace>
+      <replace>\n</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -132,8 +209,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Java/test.sh" />
         <option value="$PROJECT_DIR$/Java/src/com/SomeFile.java" />
         <option value="$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt" />
+        <option value="$PROJECT_DIR$/Kotlin/test-linux.sh" />
+        <option value="$PROJECT_DIR$/test.sh" />
       </list>
     </option>
   </component>
@@ -143,9 +223,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="KotlinCompilerWorkspaceSettings">
+    <option name="preciseIncrementalEnabled" value="false" />
+  </component>
   <component name="PerforceDirect.Settings">
     <option name="pathToExec" value="/usr/local/p4" />
     <option name="PATH_TO_P4V" value="/Applications/p4v.app/Contents/MacOS/p4v" />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="226" />
@@ -160,6 +246,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,7 +284,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,7 +294,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15527344" />
     <property name="project.structure.side.proportion" value="0.3065173" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.kotlinCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -222,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.com.SomeObject">
     <configuration default="true" type="tests" factoryName="Nosetests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -285,11 +376,10 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SomeFile" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Application.SomeFile" />
+      <item itemvalue="Kotlin.com.SomeObject" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -297,31 +387,84 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d6ba30c8-7bca-4efa-a6ae-3e19eaee71b5" name="Default Changelist" comment="" />
+      <changelist id="7bc1af5e-de73-4a55-bb62-2c973bede860" name="don't commit" comment="" />
       <created>1542289393096</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542289393096</updated>
-      <workItem from="1542289397162" duration="664000" />
+      <workItem from="1542289397162" duration="9460000" />
+      <workItem from="1542649937276" duration="972000" />
+      <workItem from="1542718755117" duration="3650000" />
+      <workItem from="1542831218603" duration="5275000" />
+      <workItem from="1542882685647" duration="762000" />
     </task>
+    <task id="LOCAL-00001" summary="update settings">
+      <created>1542290076173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542290076174</updated>
+    </task>
+    <task id="LOCAL-00002" summary="more">
+      <created>1542290239074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542290239074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="kotlin">
+      <created>1542290356892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542290356892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removed unused">
+      <created>1542818149683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542818149683</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removed unused">
+      <created>1542818165790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542818165790</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated kotlin compiler settings">
+      <created>1542818248754</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542818248754</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated kotlin compiler settings">
+      <created>1542818349952</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542818349952</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="664000" />
+    <option name="totallyTimeSpent" value="20119000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="226" y="1080" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.3397711" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32961586" />
       <window_info anchor="bottom" id="TeamCity" order="0" weight="0.32961586" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.6542751" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.32928064" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Run" order="7" />
@@ -329,7 +472,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32961586" />
       <window_info anchor="right" id="RestServices" order="0" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -337,30 +480,94 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update settings" />
+    <MESSAGE value="more" />
+    <MESSAGE value="kotlin" />
+    <MESSAGE value="removed unused" />
+    <MESSAGE value="updated kotlin compiler settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated kotlin compiler settings" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>File(&quot;test.sh&quot;).absolutePath</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Java/src/com/SomeFile.java">
+    <entry file="file://$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/kotlinc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/src/com/SomeFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
           <folding>
-            <element signature="e#81#82#0" expanded="true" />
             <element signature="e#144#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Kotlin/src/com/SomeObject.kt">
+    <entry file="file://$PROJECT_DIR$/test.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="515">
+          <caret line="138" column="57" lean-forward="true" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Kotlin/test-linux.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -381,11 +588,11 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Kotlin (Kotlin)|Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3065173" />
               </list>
             </option>
           </splitter-proportions>
@@ -417,7 +624,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Java</last-edited>
+          <last-edited>Kotlin</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -433,7 +640,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.3065173" />
               </list>
             </option>
           </splitter-proportions>
